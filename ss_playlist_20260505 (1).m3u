@@ -1,0 +1,213 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="4502" name="M1" logo="https://os.md/X3Q8.png", M1
+http://213.163.13.122:1559/udp/239.1.10.1:2000
+#EXTINF:0 type="stream" channelId="1027" name="Duna" logo="https://os.md/CQZXX.png", Duna
+http://213.163.13.122:1559/udp/239.1.10.138:2000
+#EXTINF:0 type="stream" channelId="4503" name="Duna World" group="Közszolgálati" logo="https://os.md/TXDN.jpg", Duna World
+http://213.163.13.122:1559/udp/239.1.10.4:2000
+#EXTINF:0 type="stream" channelId="1071" name="M5" group="Közszolgálati" logo="http://steveboy.uw.hu/logo/m5.png", M5
+http://213.163.13.122:1559/udp/239.1.10.142:2000
+#EXTINF:0 type="stream" channelId="774" name="RTL" logo="https://os.md/7HX7RK.png", RTL
+http://213.163.13.122:1559/udp/239.1.10.127:2000
+#EXTINF:0 type="stream" channelId="-1" name="TV2" group="Közszolgálati" logo="https://raw.githubusercontent.com/Lutz86/Csatorna-log-k/refs/heads/main/file_00000000fe107243bb36ac10f1fce9ed.png?token=GHSAT0AAAAAAD4IYHHX4JTZEX2JZL35JQBA2PZ3LXQ", TV2
+http://213.163.13.122:1559/udp/239.1.10.17:2000
+#EXTINF:0 type="stream" channelId="-1" name="RTL Kettő" group="Közszolgálati" logo="https://raw.githubusercontent.com/Lutz86/Csatorna-log-k/refs/heads/main/file_000000000508720ab835889cdb69cc1d.png?token=GHSAT0AAAAAAD4IYHHW5GG65JIHZHKZRJ5A2PZ3VBQ", RTL Kettő
+http://213.163.13.122:1559/udp/239.1.10.124:2000
+#EXTINF:0 type="stream" channelId="-1" name="RTL Három" group="Közszolgálati" logo="https://raw.githubusercontent.com/Lutz86/Csatorna-log-k/refs/heads/main/file_0000000014ac71f4b3cb6e497bacfe56.png?token=GHSAT0AAAAAAD4IYHHXTKI2VBWLWV3GMA322PZ3X3A", RTL Három
+http://213.163.13.122:1559/udp/239.1.10.86:2000
+#EXTINF:0 type="stream" channelId="4711" name="FEM3" group="Közszolgálati" logo="http://steveboy.uw.hu/logo/fem3.png", FEM3
+http://213.163.13.122:1559/udp/239.1.10.144:2000
+#EXTINF:0 type="stream" channelId="962" name="ATV" group="Közszolgálati" logo="http://steveboy.uw.hu/logo/atv.png", ATV
+http://213.163.13.122:1559/udp/239.1.10.152:2000
+#EXTINF:0 type="stream" channelId="-1" name="ATV Extra" group="Közszolgálati" logo="http://steveboy.uw.hu/logo/atv-extra.png", ATV Extra
+http://213.163.13.122:1559/udp/239.1.10.161:2000
+#EXTINF:0 type="stream" channelId="4703" name="Hír TV" group="Közszolgálati" logo="http://steveboy.uw.hu/logo/hir-tv.png", Hír TV
+http://213.163.13.122:1559/udp/239.1.10.23:2000
+#EXTINF:0 type="stream" channelId="4504" name="M2" group="Gyerek" logo="https://raw.githubusercontent.com/Lutz86/Csatorna-log-k/refs/heads/main/file_00000000a51072469158dc48c33e9d00.png?token=GHSAT0AAAAAAD4IYHHXVMXFSSHSRAZM7LLY2PZ3TKQ", M2
+http://213.163.13.122:1559/udp/239.1.10.2:2000
+#EXTINF:0 type="stream" channelId="40" name="Cartoon Network" group="Gyerek" logo="http://steveboy.uw.hu/logo/cartoon-network.png", Cartoon Network
+http://213.163.13.122:1559/udp/239.1.10.74:2000
+#EXTINF:0 type="stream" channelId="1305" name="Cartoonito" group="Gyerek" logo="http://steveboy.uw.hu/logo/cartoonito.png", Cartoonito
+http://213.163.13.122:1559/udp/239.1.10.87:2000
+#EXTINF:0 type="stream" channelId="19" name="Disney Channel" group="Gyerek" logo="http://steveboy.uw.hu/logo/disney-channel.png", Disney Channel
+http://213.163.13.122:1559/udp/239.1.10.88:2000
+#EXTINF:0 type="stream" channelId="513" name="Duck TV" group="Gyerek" logo="http://steveboy.uw.hu/logo/duck-tv.png", Duck TV
+http://213.163.13.122:1559/udp/239.1.10.97:2000
+#EXTINF:0 type="stream" channelId="191" name="JimJam" group="Gyerek" logo="http://steveboy.uw.hu/logo/jimjam.png", JimJam
+http://213.163.13.122:1559/udp/239.1.10.46:2000
+#EXTINF:0 type="stream" channelId="2938" name="Minimax" group="Gyerek" logo="http://steveboy.uw.hu/logo/minimax.png", Minimax
+http://213.163.13.122:1559/udp/239.1.10.26:2000
+#EXTINF:0 type="stream" channelId="41" name="Nickelodeon" group="Gyerek" logo="http://steveboy.uw.hu/logo/nickelodeon.png", Nickelodeon
+http://213.163.13.122:1559/udp/239.1.10.105:2000
+#EXTINF:0 type="stream" channelId="322" name="Nick Jr." group="Gyerek" logo="http://steveboy.uw.hu/logo/nick-jr.png", Nick Jr.
+http://213.163.13.122:1559/udp/239.1.10.140:2000
+#EXTINF:0 type="stream" channelId="2711" name="Nicktoons" group="Gyerek" logo="http://steveboy.uw.hu/logo/nicktoons.png", Nicktoons
+http://213.163.13.122:1559/udp/239.1.10.112:2000
+#EXTINF:0 type="stream" channelId="2709" name="TeenNick" group="Gyerek" logo="http://steveboy.uw.hu/logo/teen-nick.png", TeenNick
+http://213.163.13.122:1559/udp/239.1.10.153:2000
+#EXTINF:0 type="stream" channelId="-1" name="TV2 Kids" group="Gyerek" logo="http://steveboy.uw.hu/logo/tv-2-kids.png", TV2 Kids
+http://213.163.13.122:1559/udp/239.1.10.148:2000
+#EXTINF:0 type="stream" channelId="4506" name="M4 Sport" group="Sport" logo="https://raw.githubusercontent.com/Lutz86/Csatorna-log-k/refs/heads/main/file_00000000ff34720ab82d542c8af10a79.png?token=GHSAT0AAAAAAD4IYHHWMKG2JNM2FMFDJ2UM2PZ3JYQ", M4 Sport
+http://213.163.13.122:1559/udp/239.1.10.134:2000
+#EXTINF:0 type="stream" channelId="4737" name="Arena4" group="Sport" logo="http://steveboy.uw.hu/logo/arena-4.png", Arena4
+http://213.163.13.122:1559/udp/239.1.10.62:2000
+#EXTINF:0 type="stream" channelId="82" name="Eurosport 1" group="Sport" logo="http://steveboy.uw.hu/logo/eurosport-1.png", Eurosport 1
+http://213.163.13.122:1559/udp/239.1.10.120:2000
+#EXTINF:0 type="stream" channelId="83" name="Eurosport 2" group="Sport" logo="http://steveboy.uw.hu/logo/eurosport-2.png", Eurosport 2
+http://213.163.13.122:1559/udp/239.1.10.121:2000
+#EXTINF:0 type="stream" channelId="-1" name="Match4" group="Sport" logo="http://steveboy.uw.hu/logo/match-4.png", Match4
+http://213.163.13.122:1559/udp/239.1.10.19:2000
+#EXTINF:0 type="stream" channelId="977" name="Sport 1" group="Sport" logo="http://steveboy.uw.hu/logo/sport1.png", Sport 1
+http://213.163.13.122:1559/udp/239.1.10.108:2000
+#EXTINF:0 type="stream" channelId="-1" name="Sport 2" group="Sport" logo="http://steveboy.uw.hu/logo/sport2.png", Sport 2
+http://213.163.13.122:1559/udp/239.1.10.110:2000
+#EXTINF:0 type="stream" channelId="-1" name="Viasat 2" group="Film" logo="http://steveboy.uw.hu/logo/viasat-2.png", Viasat 2
+http://213.163.13.122:1559/udp/239.1.10.118:2000
+#EXTINF:0 type="stream" channelId="-1" name="Canal+ Action" group="Film" logo="https://raw.githubusercontent.com/Lutz86/Csatorna-log-k/refs/heads/main/file_0000000037dc72468668e381e2aaa9e4.png?token=GHSAT0AAAAAAD4IYHHWQPE2NLSE444HYYHC2PZ35NQ", Canal+ Action
+http://213.163.13.122:1559/udp/239.1.10.???  <-- (nincs a listádban, kihagyom ha nincs stream)
+#EXTINF:0 type="stream" channelId="1330" name="HBO HD" group="Film" logo="https://raw.githubusercontent.com/Lutz86/Csatorna-log-k/refs/heads/main/file_00000000184c7246b5d8e2626d892440.png?token=GHSAT0AAAAAAD4IYHHW4JHZJGUP54RYQGDA2PZ3ZDQ", HBO HD
+http://213.163.13.122:1559/udp/239.1.10.37:2000
+#EXTINF:0 type="stream" channelId="-1" name="Roofman – A besurranó" group="Film" logo="http://steveboy.uw.hu/logo/hbo2.png", Roofman – A besurranó
+http://213.163.13.122:1559/udp/239.1.10.38:2000
+#EXTINF:0 type="stream" channelId="935" name="HBO 2" group="Film" logo="https://raw.githubusercontent.com/Lutz86/Csatorna-log-k/refs/heads/main/file_000000008eec7246a2aa6ee5288f1e66.png?token=GHSAT0AAAAAAD4IYHHXASUFW4LILYTUOMB22PZ4ANA", HBO 2
+http://213.163.13.122:1559/udp/239.1.10.38:2000
+#EXTINF:0 type="stream" channelId="3184" name="HBO 3" group="Film" logo="https://raw.githubusercontent.com/Lutz86/Csatorna-log-k/refs/heads/main/file_000000009ff471f4b76aba6ebdd54572.png?token=GHSAT0AAAAAAD4IYHHWFQYTK6PSF27R4BFK2PZ3UBQ", HBO 3
+http://213.163.13.122:1559/udp/239.1.10.39:2000
+#EXTINF:0 type="stream" channelId="4705" name="Viasat 3" group="Film" logo="http://steveboy.uw.hu/logo/viasat-3.png", Viasat 3
+http://213.163.13.122:1559/udp/239.1.10.16:2000
+#EXTINF:0 type="stream" channelId="4709" name="Viasat 6" group="Film" logo="http://steveboy.uw.hu/logo/viasat-6.png", Viasat 6
+http://213.163.13.122:1559/udp/239.1.10.79:2000
+#EXTINF:0 type="stream" channelId="4718" name="Super TV2" group="Film" logo="https://raw.githubusercontent.com/Lutz86/Csatorna-log-k/refs/heads/main/file_000000002e9c720a9af4a8c558414f20.png?token=GHSAT0AAAAAAD4IYHHXTXGBCJDN773Q6MEA2PZ34OQ", Super TV2
+http://213.163.13.122:1559/udp/239.1.10.113:2000
+#EXTINF:0 type="stream" channelId="1605" name="Film+" group="Film" logo="https://raw.githubusercontent.com/Lutz86/Csatorna-log-k/refs/heads/main/file_00000000f8b8720a8a2b9165bf4b6ee5.png?token=GHSAT0AAAAAAD4IYHHW3CP5RLF4DM4GRP7M2PZ3MXA", Film+
+http://213.163.13.122:1559/udp/239.1.10.126:2000
+#EXTINF:0 type="stream" channelId="4727" name="Film Mánia" group="Film" logo="http://steveboy.uw.hu/logo/film-mania.png", Film Mánia
+http://213.163.13.122:1559/udp/239.1.10.96:2000
+#EXTINF:0 type="stream" channelId="-1" name="Film Café" group="Film" logo="http://steveboy.uw.hu/logo/film-cafe.png", Film Café
+http://213.163.13.122:1559/udp/239.1.10.136:2000
+#EXTINF:0 type="stream" channelId="1221" name="Film4" group="Film" logo="http://steveboy.uw.hu/logo/film-4.png", Film4
+http://213.163.13.122:1559/udp/239.1.10.164:2000
+#EXTINF:0 type="stream" channelId="4728" name="Mozi+" group="Film" logo="https://raw.githubusercontent.com/Lutz86/Csatorna-log-k/refs/heads/main/file_0000000064c0720a8a87fac1805087f2.png?token=GHSAT0AAAAAAD4IYHHX76DROGQXL43H5JJ42PZ364Q", Mozi+
+http://213.163.13.122:1559/udp/239.1.10.64:2000
+#EXTINF:0 type="stream" channelId="4732" name="Moziverzum" group="Film" logo="https://raw.githubusercontent.com/Lutz86/Csatorna-log-k/refs/heads/main/file_00000000194871f48ea4c874b7d9ddfe.png?token=GHSAT0AAAAAAD4IYHHXMDD3QKF3MJOHO3O22PZ32HQ", Moziverzum
+http://213.163.13.122:1559/udp/239.1.10.158:2000
+#EXTINF:0 type="stream" channelId="-1" name="Mozi Klub" group="Film" logo="http://steveboy.uw.hu/logo/moziklub.png", Mozi Klub
+http://213.163.13.122:1559/udp/239.1.10.84:2000
+#EXTINF:0 type="stream" channelId="-1" name="Magyar Mozi TV" group="Film" logo="http://steveboy.uw.hu/logo/magyar-mozi-tv.png", Magyar Mozi TV
+http://213.163.13.122:1559/udp/239.1.10.76:2000
+#EXTINF:0 type="stream" channelId="4036" name="Paramount Network" group="Film" logo="http://steveboy.uw.hu/logo/paramount-network.png", Paramount Network
+http://213.163.13.122:1559/udp/239.1.10.119:2000
+#EXTINF:0 type="stream" channelId="2501" name="AMC" group="Film" logo="http://steveboy.uw.hu/logo/amc.png", AMC
+http://213.163.13.122:1559/udp/239.1.10.139:2000
+#EXTINF:0 type="stream" channelId="2888" name="Cinemax HD" group="Film" logo="https://raw.githubusercontent.com/Lutz86/Csatorna-log-k/refs/heads/main/file_000000008e10720a90d923ed368a4312.png?token=GHSAT0AAAAAAD4IYHHXFK7HDLEJUJLJGOU62PZ37VA", Cinemax HD
+http://213.163.13.122:1559/udp/239.1.10.40:2000
+#EXTINF:0 type="stream" channelId="2926" name="Filmbox Extra HD" group="Film" logo="http://steveboy.uw.hu/logo/filmbox-extra-hd.png", Filmbox Extra HD
+http://213.163.13.122:1559/udp/239.1.10.174:2000
+#EXTINF:0 type="stream" channelId="2927" name="Filmbox Premium" group="Film" logo="http://steveboy.uw.hu/logo/filmbox-premium.png", Filmbox Premium
+http://213.163.13.122:1559/udp/239.1.10.176:2000
+#EXTINF:0 type="stream" channelId="3021" name="Filmbox Family" group="Film" logo="http://steveboy.uw.hu/logo/filmbox-family.png", Filmbox Family
+http://213.163.13.122:1559/udp/239.1.10.177:2000
+#EXTINF:0 type="stream" channelId="-1" name="Filmbox Stars" group="Film" logo="https://raw.githubusercontent.com/Lutz86/Ott-navigator/refs/heads/main/AXN.png", Filmbox Stars
+http://213.163.13.122:1559/udp/239.1.10.175:2000
+#EXTINF:0 type="stream" channelId="4720" name="Galaxy4" group="Film" logo="http://steveboy.uw.hu/logo/galaxy-4.png", Galaxy4
+http://213.163.13.122:1559/udp/239.1.10.133:2000
+#EXTINF:0 type="stream" channelId="3949" name="Cool TV" group="Sorozat" logo="http://steveboy.uw.hu/logo/cool-tv.png", Cool TV
+http://213.163.13.122:1559/udp/239.1.10.24:2000
+#EXTINF:0 type="stream" channelId="1783" name="Prime" group="Sorozat" logo="https://raw.githubusercontent.com/Lutz86/Csatorna-log-k/refs/heads/main/file_00000000c81471f49c913df7f8c329a3.png?token=GHSAT0AAAAAAD4IYHHWJTN7BEYX6ZZ47XZG2PZ3QQQ", Prime
+http://213.163.13.122:1559/udp/239.1.10.63:2000
+#EXTINF:0 type="stream" channelId="4358" name="RTL Gold" group="Sorozat" logo="https://raw.githubusercontent.com/Lutz86/Csatorna-log-k/refs/heads/main/file_00000000b9f471f498ebacb26bce0d97.png?token=GHSAT0AAAAAAD4IYHHWA6TJGVVS4QFQNZY42PZ3RSA", RTL Gold
+http://213.163.13.122:1559/udp/239.1.10.129:2000
+#EXTINF:0 type="stream" channelId="4726" name="Jocky TV" group="Sorozat" logo="http://steveboy.uw.hu/logo/jocky-tv.png", Jocky TV
+http://213.163.13.122:1559/udp/239.1.10.159:2000
+#EXTINF:0 type="stream" channelId="4729" name="Sorozat+" group="Sorozat" logo="http://steveboy.uw.hu/logo/sorozat-plus.png", Sorozat+
+http://213.163.13.122:1559/udp/239.1.10.128:2000
+#EXTINF:0 type="stream" channelId="-1" name="Sorozat Klub" group="Sorozat" logo="http://steveboy.uw.hu/logo/sorozatklub.png", Sorozat Klub
+http://213.163.13.122:1559/udp/239.1.10.72:2000
+#EXTINF:0 type="stream" channelId="3658" name="Epic Drama" group="Sorozat" logo="http://steveboy.uw.hu/logo/epic-drama.png", Epic Drama
+http://213.163.13.122:1559/udp/239.1.10.163:2000
+#EXTINF:0 type="stream" channelId="4726" name="Jocky TV" group="Sorozat" logo="http://steveboy.uw.hu/logo/jocky-tv.png", Jocky TV
+http://213.163.13.122:1559/udp/239.1.10.159:2000
+#EXTINF:0 type="stream" channelId="4708" name="Story4" group="Sorozat" logo="http://steveboy.uw.hu/logo/story-4.png", Story4
+http://213.163.13.122:1559/udp/239.1.10.85:2000
+#EXTINF:0 type="stream" channelId="3025" name="Spektrum" group="Dokumentum" logo="http://steveboy.uw.hu/logo/spektrum.png", Spektrum
+http://213.163.13.122:1559/udp/239.1.10.165:2000
+#EXTINF:0 type="stream" channelId="57" name="Discovery Channel" group="Dokumentum" logo="http://steveboy.uw.hu/logo/discovery-channel.png", Discovery Channel
+http://213.163.13.122:1559/udp/239.1.10.150:2000
+#EXTINF:0 type="stream" channelId="56" name="National Geographic" group="Dokumentum" logo="http://steveboy.uw.hu/logo/nat-geo-hd.png", National Geographic
+http://213.163.13.122:1559/udp/239.1.10.57:2000
+#EXTINF:0 type="stream" channelId="164" name="National Geographic Wild" group="Dokumentum" logo="http://steveboy.uw.hu/logo/national-geographic-wild.png", National Geographic Wild
+http://213.163.13.122:1559/udp/239.1.10.103:2000
+#EXTINF:0 type="stream" channelId="50" name="Animal Planet" group="Dokumentum" logo="http://steveboy.uw.hu/logo/animal-planet.png", Animal Planet
+http://213.163.13.122:1559/udp/239.1.10.102:2000
+#EXTINF:0 type="stream" channelId="3192" name="BBC Earth" group="Dokumentum" logo="http://steveboy.uw.hu/logo/bbc-earth.png", BBC Earth
+http://213.163.13.122:1559/udp/239.1.10.106:2000
+#EXTINF:0 type="stream" channelId="1455" name="History" group="Dokumentum" logo="http://steveboy.uw.hu/logo/history.png", History
+http://213.163.13.122:1559/udp/239.1.10.116:2000
+#EXTINF:0 type="stream" channelId="59" name="ID" group="Dokumentum" logo="http://steveboy.uw.hu/logo/investigation-discovery.png", ID
+http://213.163.13.122:1559/udp/239.1.10.172:2000
+#EXTINF:0 type="stream" channelId="165" name="Viasat Explore" group="Dokumentum" logo="http://steveboy.uw.hu/logo/viasat-explore.png", Viasat Explore
+http://213.163.13.122:1559/udp/239.1.10.28:2000
+#EXTINF:0 type="stream" channelId="166" name="Viasat History" group="Dokumentum" logo="http://steveboy.uw.hu/logo/viasat-history.png", Viasat History
+http://213.163.13.122:1559/udp/239.1.10.78:2000
+#EXTINF:0 type="stream" channelId="172" name="Viasat Nature" group="Dokumentum" logo="http://steveboy.uw.hu/logo/viasat-nature.png", Viasat Nature
+http://213.163.13.122:1559/udp/239.1.10.53:2000
+#EXTINF:0 type="stream" channelId="2935" name="Spektrum Home" group="Reality" logo="http://steveboy.uw.hu/logo/spektrum-home.png", Spektrum Home
+http://213.163.13.122:1559/udp/239.1.10.166:2000
+#EXTINF:0 type="stream" channelId="54" name="Travel Channel" group="Reality" logo="http://steveboy.uw.hu/logo/travel-channel.png", Travel Channel
+http://213.163.13.122:1559/udp/239.1.10.104:2000
+#EXTINF:0 type="stream" channelId="67" name="TLC" group="Reality" logo="http://steveboy.uw.hu/logo/tlc.png", TLC
+http://213.163.13.122:1559/udp/239.1.10.151:2000
+#EXTINF:0 type="stream" channelId="1244" name="Food Network" group="Reality" logo="http://steveboy.uw.hu/logo/food-network.png", Food Network
+http://213.163.13.122:1559/udp/239.1.10.173:2000
+#EXTINF:0 type="stream" channelId="2936" name="TV Paprika" group="Reality" logo="http://steveboy.uw.hu/logo/tv-paprika.png", TV Paprika
+http://213.163.13.122:1559/udp/239.1.10.35:2000
+#EXTINF:0 type="stream" channelId="-1" name="TV2 Séf" group="Reality" logo="http://steveboy.uw.hu/logo/tv-2-sef.png", TV2 Séf
+http://213.163.13.122:1559/udp/239.1.10.147:2000
+#EXTINF:0 type="stream" channelId="1418" name="HGTV" group="Reality" logo="http://steveboy.uw.hu/logo/hgtv.png", HGTV
+http://213.163.13.122:1559/udp/239.1.10.162:2000
+#EXTINF:0 type="stream" channelId="4714" name="Ozone TV" group="Reality" logo="http://steveboy.uw.hu/logo/ozone-tv.png", Ozone TV
+http://213.163.13.122:1559/udp/239.1.10.52:2000
+#EXTINF:0 type="stream" channelId="2904" name="Life TV" group="Reality" logo="http://steveboy.uw.hu/logo/life-tv.png", Life TV
+http://213.163.13.122:1559/udp/239.1.10.90:2000
+#EXTINF:0 type="stream" channelId="-1" name="The Fishing & Hunting" group="Reality" logo="http://steveboy.uw.hu/logo/the-fishing-and-hunting-channel.png", The Fishing & Hunting
+http://213.163.13.122:1559/udp/239.1.10.98:2000
+#EXTINF:0 type="stream" channelId="-1" name="Apostol TV" group="Vallás" logo="http://steveboy.uw.hu/logo/apostol-tv.png", Apostol TV
+http://213.163.13.122:1559/udp/239.1.10.51:2000
+#EXTINF:0 type="stream" channelId="1491" name="EWTN" group="Vallás" logo="http://steveboy.uw.hu/logo/ewtn.png", EWTN
+http://213.163.13.122:1559/udp/239.1.10.170:2000
+#EXTINF:0 type="stream" channelId="4723" name="Heti TV" group="Vallás" logo="http://steveboy.uw.hu/logo/hetitv.png", Heti TV
+http://213.163.13.122:1559/udp/239.1.10.54:2000
+#EXTINF:0 type="stream" channelId="4715" name="PAX TV" group="Vallás" logo="http://steveboy.uw.hu/logo/pax1.png", PAX TV
+http://213.163.13.122:1559/udp/239.1.10.10:2000
+#EXTINF:0 type="stream" channelId="4741" name="Zenebutik" group="Zene" logo="http://steveboy.uw.hu/logo/zenebutik.png", Zenebutik
+http://213.163.13.122:1559/udp/239.1.10.149:2000
+#EXTINF:0 type="stream" channelId="43" name="Mezzo" group="Zene" logo="http://steveboy.uw.hu/logo/mezzo.png", Mezzo
+http://213.163.13.122:1559/udp/239.1.10.107:2000
+#EXTINF:0 type="stream" channelId="5220" name="MTV 00s" group="Zene" logo="http://steveboy.uw.hu/logo/mtv-00s.png", MTV 00s
+http://213.163.13.122:1559/udp/239.1.10.58:2000
+#EXTINF:0 type="stream" channelId="1106" name="MTV European" group="Zene" logo="http://steveboy.uw.hu/logo/mtv.png", MTV European
+http://213.163.13.122:1559/udp/239.1.10.66:2000
+#EXTINF:0 type="stream" channelId="4333" name="Muzsika TV" group="Zene" logo="http://steveboy.uw.hu/logo/muzsika-tv.png", Muzsika TV
+http://213.163.13.122:1559/udp/239.1.10.130:2000
+#EXTINF:0 type="stream" channelId="-1" name="Dikh TV" group="Zene" logo="http://steveboy.uw.hu/logo/dikh-tv.png", Dikh TV
+http://213.163.13.122:1559/udp/239.1.10.157:2000
+#EXTINF:0 type="stream" channelId="-1" name="Jazz TV" group="Zene" logo="http://steveboy.uw.hu/logo/jazztv.png", Jazz TV
+http://213.163.13.122:1559/udp/239.1.10.11:2000
+#EXTINF:0 type="stream" channelId="-1" name="Mosonmagyaróvár TV" group="Helyi" logo="http://steveboy.uw.hu/logo/mosonmagyarovar_tv.png", Mosonmagyaróvár TV
+http://213.163.13.122:1559/udp/239.1.10.122:2000
+#EXTINF:0 type="stream" channelId="119" name="Bloomberg TV" group="Külföldi" logo="http://steveboy.uw.hu/logo/bloomberg.png", Bloomberg TV
+http://213.163.13.122:1559/udp/239.1.10.50:2000
+#EXTINF:0 type="stream" channelId="2883" name="CNN" group="Külföldi" logo="http://steveboy.uw.hu/logo/cnn.png", CNN
+http://213.163.13.122:1559/udp/239.1.10.49:2000
+#EXTINF:0 type="stream" channelId="1175" name="Sky News" group="Külföldi" logo="http://steveboy.uw.hu/logo/sky-news.png", Sky News
+http://213.163.13.122:1559/udp/239.1.10.30:2000
+#EXTINF:0 type="stream" channelId="352" name="Deutsche Welle" group="Külföldi" logo="http://steveboy.uw.hu/logo/deutsche_welle.png", Deutsche Welle
+http://213.163.13.122:1559/udp/239.1.10.45:2000
+#EXTINF:0 type="stream" channelId="965" name="Pro7" group="Külföldi" logo="http://steveboy.uw.hu/logo/prosieben.png", Pro7
+http://213.163.13.122:1559/udp/239.1.10.82:2000
+#EXTINF:0 type="stream" channelId="2215" name="Rai Uno HD" group="Külföldi" logo="http://steveboy.uw.hu/logo/rai-1.png", Rai Uno HD
+http://213.163.13.122:1559/udp/239.1.10.83:2000
+#EXTINF:0 type="stream" channelId="963" name="SAT1" group="Külföldi" logo="http://steveboy.uw.hu/logo/sat1.png", SAT1
+http://213.163.13.122:1559/udp/239.1.10.55:2000
+#EXTINF:0 type="stream" channelId="2828" name="TVE Internacional" group="Külföldi" logo="http://steveboy.uw.hu/logo/tve-internacional.png", TVE Internacional
+http://213.163.13.122:1559/udp/239.1.10.94:2000
