@@ -8,7 +8,7 @@ http://213.163.13.122:1559/udp/239.1.10.3:2000
 #EXTINF:0 type="stream" channelId="4503" name="Duna World" group="Közszolgálati" logo="https://os.md/TXDN.jpg" size="Big", Duna World
 http://213.163.13.122:1559/udp/239.1.10.4:2000
 #EXTINF:0 type="stream" channelId="4506" name="M4 Sport" logo="https://os.md/T7RTD3SUC2.png" size="Big", M4 Sport
-http://213.163.13.122:1559/udp/239.1.10.135:2000
+http://213.163.13.122:1559/udp/239.1.10.134:2000
 #EXTINF:0 type="stream" channelId="1071" name="M5" logo="https://os.md/HVWBEFNPF84E.png" size="Big", M5
 http://213.163.13.122:1559/udp/239.1.10.143:2000
 #EXTINF:0 type="stream" channelId="-1" name="Roofman – A besurranó" logo="https://os.md/8Q3UR7MQ8SFW.png" size="Big", Oxygen Music
@@ -63,7 +63,7 @@ http://213.163.13.122:1559/udp/239.1.10.126:2000
 http://213.163.13.122:1559/udp/239.1.10.64:2000
 #EXTINF:0 type="stream" channelId="4732" name="Moziverzum" logo="https://os.md/PNV2Q.png", Moziverzum
 http://213.163.13.122:1559/udp/239.1.10.158:2000
-#EXTINF:0 type="stream" channelId="4727" name="Film Mánia" logo="https://os.md/YPCC.png", Film Mánia
+#EXTINF:0 type="stream" channelId="4727" name="Film Mánia" group="Film" logo="https://os.md/YPCC" size="Big", Film Mánia
 http://213.163.13.122:1559/udp/239.1.10.96:2000
 #EXTINF:0 type="stream" channelId="4488" name="Film Café" logo="https://os.md/V8BQP", Film Café
 http://213.163.13.122:1559/udp/239.1.10.136:2000
