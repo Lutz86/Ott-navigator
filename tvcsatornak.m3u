@@ -3,7 +3,7 @@
 http://213.163.13.122:1559/udp/239.1.10.1:2000
 #EXTINF:0 type="stream" channelId="4504" name="M2" logo="https://os.md/TN8WW7A33.png" size="Big", M2
 http://213.163.13.122:1559/udp/239.1.10.2:2000
-#EXTINF:0 type="stream" channelId="1027" name="Duna" logo="https://os.md/CQZXX.png" size="Big", Duna
+#EXTINF:0 type="stream" channelId="1027" name="Duna" logo="https://os.md/DDPDK7TN2FN.png" size="Big", Duna
 http://213.163.13.122:1559/udp/239.1.10.3:2000
 #EXTINF:0 type="stream" channelId="4503" name="Duna World" group="Közszolgálati" logo="https://os.md/TXDN.jpg" size="Big", Duna World
 http://213.163.13.122:1559/udp/239.1.10.4:2000
