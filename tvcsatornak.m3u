@@ -61,7 +61,7 @@ http://213.163.13.122:1559/udp/239.1.10.139:2000
 http://213.163.13.122:1559/udp/239.1.10.126:2000
 #EXTINF:0 type="stream" channelId="4728" name="Mozi+" logo="https://os.md/KZC99QD.png", Mozi+
 http://213.163.13.122:1559/udp/239.1.10.64:2000
-#EXTINF:0 type="stream" channelId="4732" name="Moziverzum" logo="https://os.md/KZC99QD.png", Moziverzum
+#EXTINF:0 type="stream" channelId="4732" name="Moziverzum" logo="https://os.md/GGMXWCYN.png", Moziverzum
 http://213.163.13.122:1559/udp/239.1.10.158:2000
 #EXTINF:0 type="stream" channelId="4727" name="Film Mánia" logo="https://os.md/5ESRY.png", Film Mánia
 http://213.163.13.122:1559/udp/239.1.10.96:2000
