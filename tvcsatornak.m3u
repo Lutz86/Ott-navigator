@@ -59,7 +59,7 @@ type="stream" channelId="1573" logo="https://os.md/X7P3FJM.png", AXN
 http://213.163.13.122:1559/udp/239.1.10.139:2000
 #EXTINF:0 type="stream" channelId="1605" name="Film+" logo="https://os.md/XH9TAE8.png", Film+
 http://213.163.13.122:1559/udp/239.1.10.126:2000
-#EXTINF:0 type="stream" channelId="4728" name="Mozi+" logo="https://os.md/N6ZYMB.png", Mozi+
+#EXTINF:0 type="stream" channelId="4728" name="Mozi+" logo="https://os.md/KZC99QD.png", Mozi+
 http://213.163.13.122:1559/udp/239.1.10.64:2000
 #EXTINF:0 type="stream" channelId="4732" name="Moziverzum" logo="https://os.md/KZC99QD.png", Moziverzum
 http://213.163.13.122:1559/udp/239.1.10.158:2000
