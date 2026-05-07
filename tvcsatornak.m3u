@@ -67,7 +67,7 @@ http://213.163.13.122:1559/udp/239.1.10.158:2000
 http://213.163.13.122:1559/udp/239.1.10.96:2000
 #EXTINF:0 type="stream" channelId="4488" name="Film Café" logo="https://os.md/ZYGSNJ.png", Film Café
 http://213.163.13.122:1559/udp/239.1.10.136:2000
-#EXTINF:0 type="stream" channelId="-1" name="Mozi Klub" group="Film" logo="http://steveboy.uw.hu/logo/moziklub.png", Mozi Klub
+#EXTINF:0 type="stream" channelId="-1" name="Mozi Klub" logo="https://os.md/53PJ6VSC.png", Mozi Klub
 http://213.163.13.122:1559/udp/239.1.10.84:2000
 #EXTINF:0 type="stream" channelId="-1" name="Magyar Mozi TV" logo="https://os.md/UCPXJ73.png", Magyar Mozi TV
 http://213.163.13.122:1559/udp/239.1.10.76:2000
