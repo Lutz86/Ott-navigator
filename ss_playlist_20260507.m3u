@@ -14,8 +14,7 @@ http://213.163.13.122:1559/udp/239.1.10.143:2000
 #EXTINF:0 type="stream" channelId="-1" name="Roofman – A besurranó" logo="https://os.md/8Q3UR7MQ8SFW.png" size="Big", Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Canal+ Action (26.09.05)" logo="https://os.md/ERJKJKT97YVH.png" size="Big", Canal+ Action
-http://movel-cdn.online:42310/play /enEUFx1QMAo7VKaFTcT18pohLK4v4NnCQIlaZ2BWE_7hkuwp
-_n91DpiMKKN1Vdl7/ts
+http://tv1.halitvhd.top:80/play/oYsNDf0EW5Eyavkn8S1j4tx9zvLvzwyghtN5XvlmBdiXjDMP2-p8Ba6YWfyRnp9S/m3u8
 #EXTINF:0 type="stream" channelId="1330" name="HBO HD" logo="https://os.md/65X7A3RQCC6.png" size="Big", HBO HD
 http://213.163.13.122:1559/udp/239.1.10.37:2000
 #EXTINF:0 type="stream" channelId="935" name="HBO 2" logo="https://os.md/MB8J8XY5RVSX.png" size="Big", HBO 2
