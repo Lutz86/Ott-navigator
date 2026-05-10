@@ -93,7 +93,7 @@ http://213.163.13.122:1559/udp/239.1.10.150:2000
 http://213.163.13.122:1559/udp/239.1.10.116:2000
 #EXTINF:0 type="stream" channelId="3025" name="Spektrum" group="Dokumentum" logo="https://os.md/SPK5WV5T9.png", Spektrum
 http://213.163.13.122:1559/udp/239.1.10.165:2000
-#EXTINF:0 type="stream" channelId="1418" name="HGTV" group="Reality" logo="http://steveboy.uw.hu/logo/hgtv.png", HGTV
+#EXTINF:0 type="stream" channelId="1418" name="HGTV" group="Reality" logo="https://os.md/CC4T5ZQM8E.png", HGTV
 http://213.163.13.122:1559/udp/239.1.10.162:2000
 #EXTINF:0 type="stream" channelId="4711" name="FEM3" group="Közszolgálati" logo="http://steveboy.uw.hu/logo/fem3.png", FEM3
 http://213.163.13.122:1559/udp/239.1.10.144:2000
