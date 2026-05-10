@@ -79,7 +79,7 @@ http://213.163.13.122:1559/udp/239.1.10.152:2000
 http://213.163.13.122:1559/udp/239.1.10.161:2000
 #EXTINF:0 type="stream" channelId="4703" name="Hír TV" group="Közszolgálati" logo="https://os.md/6MZSG8.png", Hír TV
 http://213.163.13.122:1559/udp/239.1.10.23:2000
-#EXTINF:0 type="stream" channelId="4714" name="Ozone TV" group="Reality" logo="http://steveboy.uw.hu/logo/ozone-tv.png", Ozone TV
+#EXTINF:0 type="stream" channelId="4714" name="Ozone TV" group="Reality" logo="https://os.md/JJ74Z.png", Ozone TV
 http://213.163.13.122:1559/udp/239.1.10.52:2000
 #EXTINF:0 type="stream" channelId="2904" name="Life TV" group="Reality" logo="http://steveboy.uw.hu/logo/life-tv.png", Life TV
 http://213.163.13.122:1559/udp/239.1.10.90:2000
