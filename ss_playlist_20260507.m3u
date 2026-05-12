@@ -87,7 +87,7 @@ http://213.163.13.122:1559/udp/239.1.10.90:2000
 http://213.163.13.122:1559/udp/239.1.10.57:2000
 #EXTINF:0 type="stream" channelId="164" name="National Geographic Wild" logo="http://steveboy.uw.hu/logo/national-geographic-wild.png", National Geographic Wild
 http://213.163.13.122:1559/udp/239.1.10.60:2000
-#EXTINF:0 type="stream" channelId="57" name="Discovery Channel" group="Dokumentum" logo="https://os.md/TPWQ.png", Discovery Channel
+#EXTINF:0 type="stream" channelId="57" name="Discovery Channel" group="Dokumentum" logo="https://os.md/7B6R.jpg", Discovery Channel
 http://213.163.13.122:1559/udp/239.1.10.150:2000
 #EXTINF:0 type="stream" channelId="1455" name="History" group="Dokumentum"https://os.md/QR2SN7WNH.jpg", History
 http://213.163.13.122:1559/udp/239.1.10.116:2000
