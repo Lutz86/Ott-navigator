@@ -99,7 +99,7 @@ http://213.163.13.122:1559/udp/239.1.10.162:2000
 http://213.163.13.122:1559/udp/239.1.10.144:2000
 #EXTINF:0 type="stream" channelId="2935" name="Spektrum Home" group="Reality" logo="https://os.md/Z9W22.jpg", Spektrum Home
 http://213.163.13.122:1559/udp/239.1.10.166:2000
-#EXTINF:0 type="stream" channelId="1244" name="Food Network" group="Reality" logo="http://steveboy.uw.hu/logo/food-network.png", Food Network
+#EXTINF:0 type="stream" channelId="1244" name="Food Network" group="Reality" logo="https://os.md/XSVPUZ.jpg", Food Network
 http://213.163.13.122:1559/udp/239.1.10.173:2000
 #EXTINF:0 type="stream" channelId="2936" name="TV Paprika" group="Reality" logo="http://steveboy.uw.hu/logo/tv-paprika.png", TV Paprika
 http://213.163.13.122:1559/udp/239.1.10.35:2000
