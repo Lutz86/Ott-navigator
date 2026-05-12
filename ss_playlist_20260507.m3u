@@ -97,7 +97,7 @@ http://213.163.13.122:1559/udp/239.1.10.165:2000
 http://213.163.13.122:1559/udp/239.1.10.162:2000
 #EXTINF:0 type="stream" channelId="4711" name="FEM3" group="Közszolgálati" logo="https://os.md/ZWMYR.png", FEM3
 http://213.163.13.122:1559/udp/239.1.10.144:2000
-#EXTINF:0 type="stream" channelId="2935" name="Spektrum Home" group="Reality" logo="http://steveboy.uw.hu/logo/spektrum-home.png", Spektrum Home
+#EXTINF:0 type="stream" channelId="2935" name="Spektrum Home" group="Reality" logo="https://os.md/Z9W22.jpg", Spektrum Home
 http://213.163.13.122:1559/udp/239.1.10.166:2000
 #EXTINF:0 type="stream" channelId="1244" name="Food Network" group="Reality" logo="http://steveboy.uw.hu/logo/food-network.png", Food Network
 http://213.163.13.122:1559/udp/239.1.10.173:2000
