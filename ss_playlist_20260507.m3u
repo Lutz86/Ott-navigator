@@ -13,7 +13,7 @@ http://213.163.13.122:1559/udp/239.1.10.135:2000
 http://213.163.13.122:1559/udp/239.1.10.143:2000
 #EXTINF:0 type="stream" channelId="-1" name="Roofman – A besurranó" logo="https://os.md/8Q3UR7MQ8SFW.png" size="Big", Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="Canal+ Action (26.09.05)" logo="https://os.md/ERJKJKT97YVH.png" size="Big", Canal+ Action
+#EXTINF:0 type="stream" channelId="-1" name="Canal+ Action" logo="https://os.md/ERJKJKT97YVH.png" size="Big", Canal+ Action
 http://tv1.halitvhd.top:80/play/oYsNDf0EW5Eyavkn8S1j4tx9zvLvzwyghtN5XvlmBdiXjDMP2-p8Ba6YWfyRnp9S/m3u8
 #EXTINF:0 type="stream" channelId="1330" name="HBO HD" logo="https://os.md/65X7A3RQCC6.png" size="Big", HBO HD
 http://213.163.13.122:1559/udp/239.1.10.37:2000
@@ -21,11 +21,11 @@ http://213.163.13.122:1559/udp/239.1.10.37:2000
 http://213.163.13.122:1559/udp/239.1.10.38:2000
 #EXTINF:0 type="stream" channelId="3184" name="HBO 3" logo="https://os.md/XDJC48JWSCJD.png" size="Big", HBO 3
 http://213.163.13.122:1559/udp/239.1.10.39:2000
-#EXTINF:0 type="stream" channelId="2888" name="Cinemax" logo="https://os.md/3T5QNM83MKTY.png" size="Big", Cinemax HD
+#EXTINF:0 type="stream" channelId="2888" name="Cinemax HD" logo="https://os.md/3T5QNM83MKTY.png" size="Big", Cinemax HD
 http://213.163.13.122:1559/udp/239.1.10.40:2000
-#EXTINF:0 type="stream" channelId="1547" name="Cinemax2 (26.09.05)" logo="https://os.md/97H8MAZ23ZBY.png" size="Big", Cinemax2
-http://movaloget.cc:42310/GwhRbbGhrA/6V9UhVynRk/516
-#EXTINF:0 type="stream" channelId="4493" name="RTL" logo="https://os.md/B7CQ.png" size="Big", RTL
+#EXTINF:0 type="stream" channelId="1547" logo="https://os.md/97H8MAZ23ZBY.png" size="Big", Cinemax2
+http://live.huntv.net:8080/PapobocaboGC89/YExavFM8uG/41
+#EXTINF:0 type="stream" channelId="774" name="RTL" logo="https://os.md/B7CQ.png" size="Big", RTL
 http://213.163.13.122:1559/udp/239.1.10.127:2000
 #EXTINF:0 type="stream" channelId="-1" name="TV2" logo="https://os.md/CB7Y4HU7M.png" size="Big", TV2
 http://213.163.13.122:1559/udp/239.1.10.17:2000
@@ -41,7 +41,7 @@ http://213.163.13.122:1559/udp/239.1.10.125:2000
 http://213.163.13.122:1559/udp/239.1.10.113:2000
 #EXTINF:0 type="stream" channelId="1783" name="Prime" logo="https://os.md/GQYSTUKC.png" size="Big", Prime
 http://213.163.13.122:1559/udp/239.1.10.63:2000
-#EXTINF:0 type="stream" channelId="4717" name="RTL Kettő" logo="https://os.md/P2GZAXV.png" size="Big", RTL Kettő
+#EXTINF:0 type="stream" channelId="-1" name="RTL Kettő" logo="https://os.md/P2GZAXV.png" size="Big", RTL Kettő
 http://213.163.13.122:1559/udp/239.1.10.124:2000
 #EXTINF:0 type="stream" channelId="-1" name="RTL Három" logo="https://os.md/2VF4.png" size="Big", RTL Három
 http://213.163.13.122:1559/udp/239.1.10.86:2000
@@ -55,8 +55,8 @@ http://213.163.13.122:1559/udp/239.1.10.159:2000
 http://213.163.13.122:1559/udp/239.1.10.128:2000
 #EXTINF:0 type="stream" channelId="-1" name="Sorozat Klub" logo="https://os.md/SSHP85.png" size="Big", Sorozat Klub
 http://213.163.13.122:1559/udp/239.1.10.72:2000
-#EXTINF:0 type="stream" channelId="1573" logo="https://os.md/RVPEDW.png" size="Big", AXN
-type="stream" channelId="1573" logo="https://os.md/X7P3FJM.png", AXN
+#EXTINF:0 type="stream" channelId="1573" logo="https://os.md/RVPEDW.png" size="Big", IAXN
+http://213.163.13.122:1559/udp/239.1.10.132:2000
 #EXTINF:0 type="stream" channelId="2501" name="AMC" logo="https://os.md/CAQ2A.png" size="Big", AMC
 http://213.163.13.122:1559/udp/239.1.10.139:2000
 #EXTINF:0 type="stream" channelId="1605" name="Film+" logo="https://os.md/D8DBUU6A9.png", Film+
@@ -77,31 +77,29 @@ http://213.163.13.122:1559/udp/239.1.10.76:2000
 http://213.163.13.122:1559/udp/239.1.10.152:2000
 #EXTINF:0 type="stream" channelId="-1" name="ATV Extra" group="Közszolgálati" logo="http://steveboy.uw.hu/logo/atv-extra.png", ATV Extra
 http://213.163.13.122:1559/udp/239.1.10.161:2000
-#EXTINF:0 type="stream" channelId="4703" name="Hír TV" group="Közszolgálati" logo="https://os.md/6MZSG8.png", Hír TV
+#EXTINF:0 type="stream" channelId="4703" name="Hír TV" logo="https://os.md/6MZSG8.png" size="Big", Hír TV
 http://213.163.13.122:1559/udp/239.1.10.23:2000
-#EXTINF:0 type="stream" channelId="4714" name="Ozone TV" group="Reality" logo="https://os.md/JJ74Z.png", Ozone TV
+#EXTINF:0 type="stream" channelId="4714" name="Ozone TV" logo="https://os.md/JJ74Z.png" size="Big", Ozone TV
 http://213.163.13.122:1559/udp/239.1.10.52:2000
-#EXTINF:0 type="stream" channelId="2904" name="Life TV" group="Reality" logo="https://os.md/9HY47H.png", Life TV
+#EXTINF:0 type="stream" channelId="2904" name="Life TV" logo="https://os.md/9HY47H.png" size="Big", Life TV
 http://213.163.13.122:1559/udp/239.1.10.90:2000
 #EXTINF:0 type="stream" channelId="56" name="National Geographic" group="Dokumentum" logo="http://steveboy.uw.hu/logo/nat-geo-hd.png", National Geographic
 http://213.163.13.122:1559/udp/239.1.10.57:2000
 #EXTINF:0 type="stream" channelId="164" name="National Geographic Wild" logo="http://steveboy.uw.hu/logo/national-geographic-wild.png", National Geographic Wild
 http://213.163.13.122:1559/udp/239.1.10.60:2000
-#EXTINF:0 type="stream" channelId="57" name="Discovery Channel" group="Dokumentum" logo="https://os.md/7B6R.jpg", Discovery Channel
+#EXTINF:0 type="stream" channelId="57" name="Discovery Channel" logo="https://os.md/7B6R.jpg" size="Big", Discovery Channel
 http://213.163.13.122:1559/udp/239.1.10.150:2000
-#EXTINF:0 type="stream" channelId="1455" name="History" group="Dokumentum"https://os.md/QR2SN7WNH.jpg", History
+#EXTINF:0 type="stream" channelId="1455" name="History" logo="https://os.md/BWXENM.png" size="Big", History
 http://213.163.13.122:1559/udp/239.1.10.116:2000
-#EXTINF:0 type="stream" channelId="3025" name="Spektrum" group="Dokumentum" logo="https://os.md/SPK5WV5T9.png", Spektrum
+#EXTINF:0 type="stream" channelId="3025" name="Spektrum" logo="https://os.md/SPK5WV5T9.png" size="Big", Spektrum
 http://213.163.13.122:1559/udp/239.1.10.165:2000
-#EXTINF:0 type="stream" channelId="1418" name="HGTV" group="Reality" logo="https://os.md/CC4T5ZQM8E.png", HGTV
+#EXTINF:0 type="stream" channelId="1418" name="HGTV" logo="https://os.md/CC4T5ZQM8E.png" size="Big", HGTV
 http://213.163.13.122:1559/udp/239.1.10.162:2000
-#EXTINF:0 type="stream" channelId="4711" name="FEM3" group="Közszolgálati" logo="https://os.md/ZWMYR.png", FEM3
+#EXTINF:0 type="stream" channelId="4711" name="FEM3" logo="https://os.md/ZWMYR.png", FEM3
 http://213.163.13.122:1559/udp/239.1.10.144:2000
-#EXTINF:0 type="stream" channelId="2935" name="Spektrum Home" group="Reality" logo="https://os.md/Z9W22.jpg", Spektrum Home
+#EXTINF:0 type="stream" channelId="2935" name="Spektrum Home" logo="https://os.md/Z9W22.jpg", Spektrum Home
 http://213.163.13.122:1559/udp/239.1.10.166:2000
-#EXTINF:0 type="stream" channelId="2501" name="AXN" logo="https://os.md/CAQ2A.png" size="Big", AMC
-http://213.163.13.122:1559/udp/239.1.10.132:2000
-#EXTINF:0 type="stream" channelId="1244" name="Food Network" group="Reality" logo="https://os.md/XSVPUZ.jpg", Food Network
+#EXTINF:0 type="stream" channelId="1244" name="Food Network" logo="https://os.md/XSVPUZ.jpg" size="Big", Food Network
 http://213.163.13.122:1559/udp/239.1.10.173:2000
 #EXTINF:0 type="stream" channelId="2936" name="TV Paprika" group="Reality" logo="http://steveboy.uw.hu/logo/tv-paprika.png", TV Paprika
 http://213.163.13.122:1559/udp/239.1.10.35:2000
