@@ -105,7 +105,7 @@ http://213.163.13.122:1559/udp/239.1.10.173:2000
 http://213.163.13.122:1559/udp/239.1.10.35:2000
 #EXTINF:0 type="stream" channelId="-1" name="TV2 Séf" group="Reality" logo="https://os.md/KHPRR.png", TV2 Séf
 http://213.163.13.122:1559/udp/239.1.10.147:2000
-#EXTINF:0 type="stream" channelId="54" name="Travel Channel" group="Reality" logo="http://steveboy.uw.hu/logo/travel-channel.png", Travel Channel
+#EXTINF:0 type="stream" channelId="54" name="Travel Channel" group="Reality" logo="https://os.md/T4YK34.png", Travel Channel
 http://213.163.13.122:1559/udp/239.1.10.104:2000
 #EXTINF:0 type="stream" channelId="67" name="TLC" group="Reality" logo="http://steveboy.uw.hu/logo/tlc.png", TLC
 http://213.163.13.122:1559/udp/239.1.10.151:2000
