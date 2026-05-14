@@ -109,7 +109,7 @@ http://213.163.13.122:1559/udp/239.1.10.147:2000
 http://213.163.13.122:1559/udp/239.1.10.104:2000
 #EXTINF:0 type="stream" channelId="67" name="TLC" group="Reality" logo="https://os.md/E6X3.png", TLC
 http://213.163.13.122:1559/udp/239.1.10.151:2000
-#EXTINF:0 type="stream" channelId="3658" name="Epic Drama" group="Sorozat" logo="http://steveboy.uw.hu/logo/epic-drama.png", Epic Drama
+#EXTINF:0 type="stream" channelId="3658" name="Epic Drama" group="Sorozat" logo="https://os.md/8DP9KK7.png", Epic Drama
 http://213.163.13.122:1559/udp/239.1.10.163:2000
 #EXTINF:0 type="stream" channelId="59" name="ID" logo="http://steveboy.uw.hu/logo/investigation-discovery.png", ID
 http://213.163.13.122:1559/udp/239.1.10.70:2000
