@@ -37,7 +37,7 @@ http://213.163.13.122:1559/udp/239.1.10.16:2000
 http://213.163.13.122:1559/udp/239.1.10.79:2000
 #EXTINF:0 type="stream" channelId="3949" name="Cool TV" logo="https://os.md/3BSWC.png" size="Big", Cool TV
 http://213.163.13.122:1559/udp/239.1.10.125:2000
-#EXTINF:0 type="stream" channelId="4718" name="Super TV2" logo="https://os.md/YJY3Q9A.png" size="Big", Super TV2
+#EXTINF:0 type="stream" channelId="4718" name="Super TV2" logo="https://os.md/WR8A.png" size="Big", Super TV2
 http://213.163.13.122:1559/udp/239.1.10.113:2000
 #EXTINF:0 type="stream" channelId="1783" name="Prime" logo="https://os.md/GQYSTUKC.png" size="Big", Prime
 http://213.163.13.122:1559/udp/239.1.10.63:2000
