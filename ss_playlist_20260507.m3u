@@ -117,7 +117,7 @@ http://213.163.13.122:1559/udp/239.1.10.70:2000
 http://213.163.13.122:1559/udp/239.1.10.74:2000
 #EXTINF:0 type="stream" channelId="1305" name="Cartoonito" group="Gyerek" logo="https://os.md/PKBRKJT.png", Cartoonito
 http://213.163.13.122:1559/udp/239.1.10.87:2000
-#EXTINF:0 type="stream" channelId="19" name="Disney Channel" group="Gyerek" logo="http://steveboy.uw.hu/logo/disney-channel.png", Disney Channel
+#EXTINF:0 type="stream" channelId="19" name="Disney Channel" group="Gyerek" logo="https://os.md/F6RD8HE9.png", Disney Channel
 http://213.163.13.122:1559/udp/239.1.10.88:2000
 #EXTINF:0 type="stream" channelId="2938" name="Minimax" group="Gyerek" logo="http://steveboy.uw.hu/logo/minimax.png", Minimax
 http://213.163.13.122:1559/udp/239.1.10.26:2000
