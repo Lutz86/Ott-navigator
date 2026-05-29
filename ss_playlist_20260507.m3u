@@ -91,7 +91,7 @@ http://213.163.13.122:1559/udp/239.1.10.60:2000
 http://213.163.13.122:1559/udp/239.1.10.150:2000
 #EXTINF:0 type="stream" channelId="1455" name="History" logo="https://os.md/QR2SN7WNH.jpg" size="Big", History
 http://213.163.13.122:1559/udp/239.1.10.116:2000
-#EXTINF:0 type="stream" channelId="1455" name="History2" logo="https://os.md/QR2SN7WNH.jpg" size="Big", History
+#EXTINF:0 type="stream" channelId="1455" name="History2" logo="https://os.md/QR2SN7WNH.jpg" size="Big", History2
 http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/35036.ts
 #EXTINF:0 type="stream" channelId="3025" name="Spektrum" logo="https://os.md/SPK5WV5T9.png" size="Big", Spektrum
 http://213.163.13.122:1559/udp/239.1.10.165:2000
