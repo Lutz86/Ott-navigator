@@ -24,7 +24,7 @@ http://213.163.13.122:1559/udp/239.1.10.39:2000
 #EXTINF:0 type="stream" channelId="2888" name="Cinemax HD" logo="https://os.md/3T5QNM83MKTY.png" size="Big", Cinemax HD
 http://213.163.13.122:1559/udp/239.1.10.40:2000
 #EXTINF:0 type="stream" channelId="1547" logo="https://os.md/97H8MAZ23ZBY.png" size="Big", Cinemax2
-http://live.huntv.net:8080/PapobocaboGC89/YExavFM8uG/41
+http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/35092.ts
 #EXTINF:0 type="stream" channelId="774" name="RTL" logo="https://os.md/B7CQ.png" size="Big", RTL
 http://213.163.13.122:1559/udp/239.1.10.127:2000
 #EXTINF:0 type="stream" channelId="-1" name="TV2" logo="https://os.md/CB7Y4HU7M.png" size="Big", TV2
