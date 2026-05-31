@@ -75,7 +75,7 @@ http://213.163.13.122:1559/udp/239.1.10.84:2000
 http://213.163.13.122:1559/udp/239.1.10.76:2000
 #EXTINF:0 type="stream" channelId="962" name="ATV" logo="https://os.md/YBG28.png" size="Big", ATV
 http://213.163.13.122:1559/udp/239.1.10.152:2000
-#EXTINF:0 type="stream" channelId="-1" name="ATV Extra" group="Közszolgálati" logo="http://steveboy.uw.hu/logo/atv-extra.png", ATV Extra
+#EXTINF:0 type="stream" channelId="-1" name="ATV Extra" group="Közszolgálati" logo="https://os.md/685A", ATV Extra
 http://213.163.13.122:1559/udp/239.1.10.161:2000
 #EXTINF:0 type="stream" channelId="4703" name="Hír TV" logo="https://os.md/6MZSG8.png" size="Big", Hír TV
 http://213.163.13.122:1559/udp/239.1.10.23:2000
