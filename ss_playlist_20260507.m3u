@@ -57,8 +57,10 @@ http://213.163.13.122:1559/udp/239.1.10.128:2000
 http://213.163.13.122:1559/udp/239.1.10.72:2000
 #EXTINF:0 type="stream" channelId="1573" logo="https://os.md/RVPEDW.png" size="Big", IAXN
 http://213.163.13.122:1559/udp/239.1.10.132:2000
-#EXTINF:0 type="stream" channelId="1573" logo="https://os.md/RVPEDW.png" size="Big", AXN black
+#EXTINF:0 type="stream" channelId="1573" logo="https://os.md/RVPEDW.png" size="Big", AXN Wine
 http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/35085.ts
+#EXTINF:0 type="stream" channelId="1573" logo="https://os.md/RVPEDW.png" size="Big", AXN black
+http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/35086.ts
 #EXTINF:0 type="stream" channelId="2501" name="AMC" logo="https://os.md/CAQ2A.png" size="Big", AMC
 http://213.163.13.122:1559/udp/239.1.10.139:2000
 #EXTINF:0 type="stream" channelId="1605" name="Film+" logo="https://os.md/D8DBUU6A9.png", Film+
