@@ -58,7 +58,7 @@ http://213.163.13.122:1559/udp/239.1.10.72:2000
 #EXTINF:0 type="stream" channelId="1573" logo="https://os.md/RVPEDW.png" size="Big", IAXN
 http://213.163.13.122:1559/udp/239.1.10.132:2000
 #EXTINF:0 type="stream" channelId="1573" logo="https://os.md/RVPEDW.png" size="Big", AXN Wine
-http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/35085.ts
+http://srvr1.torba.fun/SzBWdHmmV2/mpegts?token=E9OdxNFRcS1VJysv
 #EXTINF:0 type="stream" channelId="1573" logo="https://os.md/RVPEDW.png" size="Big", AXN black
 http://srvr1.torba.fun/PTHRtYGPXM/mpegts?token=E9OdxNFRcS1VJysv
 #EXTINF:0 type="stream" channelId="2501" name="AMC" logo="https://os.md/CAQ2A.png" size="Big", AMC
