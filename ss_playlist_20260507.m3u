@@ -19,7 +19,7 @@ http://tv1.halitvhd.top:80/play/oYsNDf0EW5Eyavkn8S1j4tx9zvLvzwyghtN5XvlmBdiWrSwl
 http://213.163.13.122:1559/udp/239.1.10.37:2000
 #EXTINF:0 type="stream" channelId="935" name="HBO 2" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/HBO2.png" size="Big", HBO 2
 http://213.163.13.122:1559/udp/239.1.10.38:2000
-#EXTINF:0 type="stream" channelId="3184" name="HBO 3" logo="https://os.md/XDJC48JWSCJD.png" size="Big", HBO 3
+#EXTINF:0 type="stream" channelId="3184" name="HBO 3" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/HBO3.png" size="Big", HBO 3
 http://213.163.13.122:1559/udp/239.1.10.39:2000
 #EXTINF:0 type="stream" channelId="2888" name="Cinemax HD" logo="https://os.md/3T5QNM83MKTY.png" size="Big", Cinemax HD
 http://213.163.13.122:1559/udp/239.1.10.40:2000
