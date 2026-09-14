@@ -7,7 +7,7 @@ http://213.163.13.122:1559/udp/239.1.10.2:2000
 http://213.163.13.122:1559/udp/239.1.10.3:2000
 #EXTINF:0 type="stream" channelId="4503" name="Duna World" group="Közszolgálati" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Duna%20word.png" size="Big", Duna World
 http://213.163.13.122:1559/udp/239.1.10.4:2000
-#EXTINF:0 type="stream" channelId="4506" name="M4 Sport" logo="https://os.md/2CPVN.png" size="Big", M4 Sport
+#EXTINF:0 type="stream" channelId="4506" name="M4 Sport" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/M4sport.png" size="Big", M4 Sport
 http://213.163.13.122:1559/udp/239.1.10.135:2000
 #EXTINF:0 type="stream" channelId="1071" name="M5" logo="https://os.md/HVWBEFNPF84E.png" size="Big", M5
 http://213.163.13.122:1559/udp/239.1.10.143:2000
