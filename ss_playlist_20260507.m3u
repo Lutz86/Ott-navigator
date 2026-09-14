@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="4502" name="M1" logo="https://os.md/X3Q8.png" size="Big", M1
+#EXTINF:0 type="stream" channelId="4502" name="M1" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/M1.png" size="Big", M1
 http://213.163.13.122:1559/udp/239.1.10.1:2000
 #EXTINF:0 type="stream" channelId="4504" name="M2" logo="https://os.md/TN8WW7A33.png" size="Big", M2
 http://213.163.13.122:1559/udp/239.1.10.2:2000
