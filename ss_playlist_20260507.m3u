@@ -11,7 +11,7 @@ http://213.163.13.122:1559/udp/239.1.10.4:2000
 http://213.163.13.122:1559/udp/239.1.10.135:2000
 #EXTINF:0 type="stream" channelId="1071" name="M5" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/M5.png" size="Big", M5
 http://213.163.13.122:1559/udp/239.1.10.143:2000
-#EXTINF:0 type="stream" channelId="-1" name="Roofman – A besurranó" logo="https://os.md/8Q3UR7MQ8SFW.png" size="Big", Oxygen Music
+#EXTINF:0 type="stream" channelId="-1" name="Roofman – A besurranó" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Oxygen%20music.png" size="Big", Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Canal+ Action" logo="https://os.md/ERJKJKT97YVH.png" size="Big", Canal+ Action
 http://tv1.halitvhd.top:80/play/oYsNDf0EW5Eyavkn8S1j4tx9zvLvzwyghtN5XvlmBdiWrSwlNlRdTiluu0pXQYVB/m3u8
