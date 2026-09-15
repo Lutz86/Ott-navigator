@@ -55,7 +55,7 @@ http://213.163.13.122:1559/udp/239.1.10.159:2000
 http://213.163.13.122:1559/udp/239.1.10.128:2000
 #EXTINF:0 type="stream" channelId="-1" name="Sorozat Klub" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Sorozat%20klub.png" size="Big", Sorozat Klub
 http://213.163.13.122:1559/udp/239.1.10.72:2000
-#EXTINF:0 type="stream" channelId="1573" logo="https://os.md/RVPEDW.png" size="Big", IAXN
+#EXTINF:0 type="stream" channelId="1573" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/AXN.png" size="Big", AXN
 http://213.163.13.122:1559/udp/239.1.10.132:2000
 #EXTINF:0 type="stream" channelId="1573" logo="https://os.md/RVPEDW.png" size="Big", AXN Wine
 http://srvr1.torba.fun/SzBWdHmmV2/mpegts?token=E9OdxNFRcS1VJysv
