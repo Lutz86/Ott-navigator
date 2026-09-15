@@ -51,7 +51,7 @@ http://213.163.13.122:1559/udp/239.1.10.129:2000
 http://213.163.13.122:1559/udp/239.1.10.146:2000
 #EXTINF:0 type="stream" channelId="4726" name="Jocky TV" group="Sorozat" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Jocky%20tv.png" size="Big", Jocky TV
 http://213.163.13.122:1559/udp/239.1.10.159:2000
-#EXTINF:0 type="stream" channelId="4729" name="Sorozat+" logo="https://os.md/KPF6B.png" size="Big", Sorozat+
+#EXTINF:0 type="stream" channelId="4729" name="Sorozat+" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Sorozat%2B.png" size="Big", Sorozat+
 http://213.163.13.122:1559/udp/239.1.10.128:2000
 #EXTINF:0 type="stream" channelId="-1" name="Sorozat Klub" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Sorozat%20klub.png" size="Big", Sorozat Klub
 http://213.163.13.122:1559/udp/239.1.10.72:2000
