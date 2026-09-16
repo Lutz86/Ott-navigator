@@ -58,9 +58,9 @@ http://213.163.13.122:1559/udp/239.1.10.72:2000
 #EXTINF:0 type="stream" channelId="1573" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/AXN.png" size="Big", AXN
 http://213.163.13.122:1559/udp/239.1.10.132:2000
 #EXTINF:0 type="stream" channelId="1573" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/AXNwine.png" size="Big", *AXN Wine*
-http://ottsansat.org:88/live/rlEXmomOInOzNZ7/tYAKiV1H8sPtedX/99321.ts
+http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/35085.ts
 #EXTINF:0 type="stream" channelId="1573" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/AXNBlack.png" size="Big", *AXN black*
-http://srvr1.torba.fun/PTHRtYGPXM/mpegts?token=E9OdxNFRcS1VJysv
+http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/35086.ts
 #EXTINF:0 type="stream" channelId="2501" name="AMC" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/AMC.png" size="Big", AMC
 http://213.163.13.122:1559/udp/239.1.10.139:2000
 #EXTINF:0 type="stream" channelId="1605" name="Film+" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Film%2B.png", Film+
@@ -108,7 +108,7 @@ http://213.163.13.122:1559/udp/239.1.10.166:2000
 #EXTINF:0 type="stream" channelId="2935" name="*RTL Otthon*" logo="https://os.md/Z9W22.jpg", *RTL Otthon*
 http://213.163.13.122:1559/udp/239.1.10.93:2000
 #EXTINF:0 type="stream" channelId="1244" name="Food Network" logo="https://os.md/XSVPUZ.jpg" size="Big", Food Network 
-http://ottsansat.org:88/live/rlEXmomOInOzNZ7/tYAKiV1H8sPtedX/694451.ts
+http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/35013.ts
 #EXTINF:0 type="stream" channelId="2936" name="TV Paprika" group="Reality" logo="https://os.md/C64H.png", TV Paprika
 http://213.163.13.122:1559/udp/239.1.10.35:2000
 #EXTINF:0 type="stream" channelId="-1" name="TV2 Séf" group="Reality" logo="https://os.md/RN7F.png", TV2 Séf
