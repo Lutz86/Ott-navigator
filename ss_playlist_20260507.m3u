@@ -23,7 +23,7 @@ http://213.163.13.122:1559/udp/239.1.10.38:2000
 http://213.163.13.122:1559/udp/239.1.10.39:2000
 #EXTINF:0 type="stream" channelId="2888" name="Cinemax HD" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Cinemax.png" size="Big", Cinemax HD
 http://213.163.13.122:1559/udp/239.1.10.40:2000
-#EXTINF:0 type="stream" channelId="1547" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Cinemax2.png" size="Big", Cinemax2
+#EXTINF:0 type="stream" channelId="1547" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Cinemax2.png" size="Big", *Cinemax2*
 http://ts360.xyz:80/live/147777664532/672a54c4716b9.28147/35092.ts
 #EXTINF:0 type="stream" channelId="774" name="RTL" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/RTL.png" size="Big", RTL
 http://213.163.13.122:1559/udp/239.1.10.127:2000
@@ -57,9 +57,9 @@ http://213.163.13.122:1559/udp/239.1.10.128:2000
 http://213.163.13.122:1559/udp/239.1.10.72:2000
 #EXTINF:0 type="stream" channelId="1573" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/AXN.png" size="Big", AXN
 http://213.163.13.122:1559/udp/239.1.10.132:2000
-#EXTINF:0 type="stream" channelId="1573" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/AXNwine.png" size="Big", AXN Wine
+#EXTINF:0 type="stream" channelId="1573" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/AXNwine.png" size="Big", *AXN Wine*
 http://srvr1.torba.fun/SzBWdHmmV2/mpegts?token=E9OdxNFRcS1VJysv
-#EXTINF:0 type="stream" channelId="1573" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/AXNBlack.png" size="Big", AXN black
+#EXTINF:0 type="stream" channelId="1573" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/AXNBlack.png" size="Big", *AXN black*
 http://srvr1.torba.fun/PTHRtYGPXM/mpegts?token=E9OdxNFRcS1VJysv
 #EXTINF:0 type="stream" channelId="2501" name="AMC" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/AMC.png" size="Big", AMC
 http://213.163.13.122:1559/udp/239.1.10.139:2000
@@ -95,7 +95,7 @@ http://213.163.13.122:1559/udp/239.1.10.60:2000
 http://213.163.13.122:1559/udp/239.1.10.150:2000
 #EXTINF:0 type="stream" channelId="1455" name="History" logo="https://os.md/QR2SN7WNH.jpg" size="Big", History
 http://213.163.13.122:1559/udp/239.1.10.116:2000
-#EXTINF:0 type="stream" channelId="1455" name="History2" logo="https://os.md/QR2SN7WNH.jpg" size="Big", History2
+#EXTINF:0 type="stream" channelId="1455" name="*History2*" logo="https://os.md/QR2SN7WNH.jpg" size="Big", *History2*
 http://srvr1.torba.fun/SenTorAmFW/mpegts?token=E9OdxNFRcS1VJysv
 #EXTINF:0 type="stream" channelId="3025" name="Spektrum" logo="https://os.md/SPK5WV5T9.png" size="Big", Spektrum
 http://213.163.13.122:1559/udp/239.1.10.165:2000
@@ -105,7 +105,7 @@ http://213.163.13.122:1559/udp/239.1.10.162:2000
 http://213.163.13.122:1559/udp/239.1.10.144:2000
 #EXTINF:0 type="stream" channelId="2935" name="Spektrum Home" logo="https://os.md/Z9W22.jpg", Spektrum Home
 http://213.163.13.122:1559/udp/239.1.10.166:2000
-#EXTINF:0 type="stream" channelId="2935" name="RTL Otthon" logo="https://os.md/Z9W22.jpg", RTL Otthon
+#EXTINF:0 type="stream" channelId="2935" name="*RTL Otthon*" logo="https://os.md/Z9W22.jpg", *RTL Otthon*
 http://newserv3.torba.fun/9XrUFIEcTU/mpegts?token=nOEt4if0zymSWFPa
 #EXTINF:0 type="stream" channelId="1244" name="Food Network" logo="https://os.md/XSVPUZ.jpg" size="Big", Food Network 
 http://srvr1.torba.fun/lukcq2tIXm/mpegts?token=E9OdxNFRcS1VJysv
