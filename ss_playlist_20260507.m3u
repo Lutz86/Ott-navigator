@@ -101,7 +101,7 @@ http://srvr1.torba.fun/SenTorAmFW/mpegts?token=E9OdxNFRcS1VJysv
 http://213.163.13.122:1559/udp/239.1.10.165:2000
 #EXTINF:0 type="stream" channelId="1418" name="HGTV" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/HGTV.png" size="Big", HGTV
 http://213.163.13.122:1559/udp/239.1.10.162:2000
-#EXTINF:0 type="stream" channelId="4711" name="FEM3" logo="https://os.md/ZWMYR.png", FEM3
+#EXTINF:0 type="stream" channelId="4711" name="FEM3" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/FEM3.png", FEM3
 http://213.163.13.122:1559/udp/239.1.10.144:2000
 #EXTINF:0 type="stream" channelId="2935" name="Spektrum Home" logo="https://os.md/Z9W22.jpg", Spektrum Home
 http://213.163.13.122:1559/udp/239.1.10.166:2000
