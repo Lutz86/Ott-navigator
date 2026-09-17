@@ -31,7 +31,7 @@ http://213.163.13.122:1559/udp/239.1.10.127:2000
 http://213.163.13.122:1559/udp/239.1.10.17:2000
 #EXTINF:0 type="stream" channelId="-1" name="Viasat 2" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Viasat2.png" size="Big", Viasat 2
 http://213.163.13.122:1559/udp/239.1.10.118:2000
-#EXTINF:0 type="stream" channelId="4705" name="Viasat 3" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Viasat3.png" size="Big", Viasat 3
+#EXTINF:0 type="stream" channelId="4705" name="Viasat 3" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Viasat3v2.png" size="Big", Viasat 3
 http://213.163.13.122:1559/udp/239.1.10.16:2000
 #EXTINF:0 type="stream" channelId="4709" name="Viasat 6" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Viasat6.png" size="Big", Viasat 6
 http://213.163.13.122:1559/udp/239.1.10.79:2000
