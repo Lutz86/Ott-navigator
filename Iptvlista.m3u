@@ -1,0 +1,191 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="4502" name="M1" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/M1.png" size="Big", M1
+http://mmttss.com:8080/47963def765a9249/KingaVarga/59569
+#EXTINF:0 type="stream" channelId="4504" name="M2" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/M2.png" size="Big", M2
+http://mmttss.com:8080/47963def765a9249/KingaVarga/29998
+#EXTINF:0 type="stream" channelId="1027" name="Duna" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Dunatv.png" size="Big", Duna
+http://mmttss.com:8080/47963def765a9249/KingaVarga/11821
+#EXTINF:0 type="stream" channelId="4503" name="Duna World" group="Közszolgálati" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Duna%20word.png" size="Big", Duna World
+http://mmttss.com:8080/47963def765a9249/KingaVarga/22795
+#EXTINF:0 type="stream" channelId="4506" name="M4 Sport" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/M4sport.png" size="Big", M4 Sport
+http://mmttss.com:8080/47963def765a9249/KingaVarga/25873
+#EXTINF:0 type="stream" channelId="1071" name="M5" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/M5.png" size="Big", M5
+http://mmttss.com:8080/47963def765a9249/KingaVarga/40081
+#EXTINF:0 type="stream" channelId="-1" name="Roofman – A besurranó" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Oxygen%20music.png" size="Big", Oxygen Music
+http://mmttss.com:8080/47963def765a9249/KingaVarga/104305
+#EXTINF:0 type="stream" channelId="-1" name="Canal+ Action" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Chanel%2B.png" size="Big", Canal+ Action
+http://mmttss.com:8080/47963def765a9249/KingaVarga/150386
+#EXTINF:0 type="stream" channelId="1330" name="HBO HD" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/HBO.png" size="Big", HBO HD
+http://mmttss.com:8080/47963def765a9249/KingaVarga/62026
+#EXTINF:0 type="stream" channelId="935" name="HBO 2" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/HBO2.png" size="Big", HBO 2
+http://mmttss.com:8080/47963def765a9249/KingaVarga/1507
+#EXTINF:0 type="stream" channelId="3184" name="HBO 3" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/HBO3.png" size="Big", HBO 3
+http://mmttss.com:8080/47963def765a9249/KingaVarga/85770
+#EXTINF:0 type="stream" channelId="2888" name="Cinemax HD" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Cinemax.png" size="Big", Cinemax HD
+http://mmttss.com:8080/47963def765a9249/KingaVarga/75111
+#EXTINF:0 type="stream" channelId="1547" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Cinemax2.png" size="Big", *Cinemax2*
+http://mmttss.com:8080/47963def765a9249/KingaVarga/19936
+#EXTINF:0 type="stream" channelId="774" name="RTL" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/RTL.png" size="Big", RTL
+http://mmttss.com:8080/47963def765a9249/KingaVarga/68576
+#EXTINF:0 type="stream" channelId="-1" name="TV2" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/TV2.png" size="Big", TV2
+http://mmttss.com:8080/47963def765a9249/KingaVarga/80847
+#EXTINF:0 type="stream" channelId="-1" name="Viasat 2" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Viasat2.png" size="Big", Viasat 2
+http://mmttss.com:8080/47963def765a9249/KingaVarga/60955
+#EXTINF:0 type="stream" channelId="4705" name="Viasat 3" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Viasat3v2.png" size="Big", Viasat 3
+http://mmttss.com:8080/47963def765a9249/KingaVarga/95454
+#EXTINF:0 type="stream" channelId="4709" name="Viasat 6" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Viasat6.png" size="Big", Viasat 6
+http://mmttss.com:8080/47963def765a9249/KingaVarga/86755
+#EXTINF:0 type="stream" channelId="3949" name="Cool TV" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Cool.png" size="Big", Cool TV
+http://mmttss.com:8080/47963def765a9249/KingaVarga/125298
+#EXTINF:0 type="stream" channelId="4718" name="Super TV2" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Supertv2.png" size="Big", Super TV2
+http://mmttss.com:8080/47963def765a9249/KingaVarga/62556
+#EXTINF:0 type="stream" channelId="1783" name="Prime" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Prime.png" size="Big", Prime
+http://mmttss.com:8080/47963def765a9249/KingaVarga/100483
+#EXTINF:0 type="stream" channelId="-1" name="RTL Kettő" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/RTL2.png" size="Big", RTL Kettő
+http://mmttss.com:8080/47963def765a9249/KingaVarga/34164
+#EXTINF:0 type="stream" channelId="-1" name="RTL Három" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/RTL3.png" size="Big", RTL Három
+http://mmttss.com:8080/47963def765a9249/KingaVarga/99291
+#EXTINF:0 type="stream" channelId="4358" name="RTL Gold" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/RTL%20GOLD.png" size="Big", RTL Gold
+http://mmttss.com:8080/47963def765a9249/KingaVarga/124350
+#EXTINF:0 type="stream" channelId="4721" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/TV2%20Comedy.png" size="Big", TV2 Comedy
+http://mmttss.com:8080/47963def765a9249/KingaVarga/24523
+#EXTINF:0 type="stream" channelId="4726" name="Jocky TV" group="Sorozat" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Jocky%20tv.png" size="Big", Jocky TV
+http://mmttss.com:8080/47963def765a9249/KingaVarga/126530
+#EXTINF:0 type="stream" channelId="4729" name="Sorozat+" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Sorozat%2B.png" size="Big", Sorozat+
+http://mmttss.com:8080/47963def765a9249/KingaVarga/105350
+#EXTINF:0 type="stream" channelId="-1" name="Sorozat Klub" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Sorozat%20klub.png" size="Big", Sorozat Klub
+http://mmttss.com:8080/47963def765a9249/KingaVarga/14136
+#EXTINF:0 type="stream" channelId="1573" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/AXN.png" size="Big", AXN
+http://mmttss.com:8080/47963def765a9249/KingaVarga/124161
+#EXTINF:0 type="stream" channelId="1573" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/AXNwine.png" size="Big", *AXN Wine*
+http://mmttss.com:8080/47963def765a9249/KingaVarga/130023
+#EXTINF:0 type="stream" channelId="1573" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/AXNBlack.png" size="Big", *AXN black*
+http://mmttss.com:8080/47963def765a9249/KingaVarga/80543
+#EXTINF:0 type="stream" channelId="2501" name="AMC" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/AMC.png" size="Big", AMC
+http://mmttss.com:8080/47963def765a9249/KingaVarga/128288
+#EXTINF:0 type="stream" channelId="1605" name="Film+" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Film%2B.png", Film+
+http://mmttss.com:8080/47963def765a9249/KingaVarga/99470
+#EXTINF:0 type="stream" channelId="4728" name="Mozi+" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Mozi%2B.png", Mozi+
+http://mmttss.com:8080/47963def765a9249/KingaVarga/1581
+#EXTINF:0 type="stream" channelId="4732" name="Moziverzum" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Moziverzum.png" size="Big", Moziverzum
+http://mmttss.com:8080/47963def765a9249/KingaVarga/49633
+#EXTINF:0 type="stream" channelId="4727" name="Film Mánia" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Film%20mania.png" size="Big", Film Mánia
+http://mmttss.com:8080/47963def765a9249/KingaVarga/127158
+#EXTINF:0 type="stream" channelId="4488" name="Film Café" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Filmcafe.png", Film Café
+http://mmttss.com:8080/47963def765a9249/KingaVarga/13453
+#EXTINF:0 type="stream" channelId="-1" name="Mozi Klub" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Moziklub.png" size="Big", Mozi Klub
+http://mmttss.com:8080/47963def765a9249/KingaVarga/62511
+#EXTINF:0 type="stream" channelId="-1" name="Magyar Mozi TV" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Magyarmozi.png" size="Big", Magyar Mozi TV
+http://mmttss.com:8080/47963def765a9249/KingaVarga/9020
+#EXTINF:0 type="stream" channelId="962" name="ATV" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/atv.png" size="Big", ATV
+http://mmttss.com:8080/47963def765a9249/KingaVarga/34607
+#EXTINF:0 type="stream" channelId="-1" name="ATV Extra" group="Közszolgálati" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/atv%20extra.png", ATV Extra
+http://mmttss.com:8080/47963def765a9249/KingaVarga/130659
+#EXTINF:0 type="stream" channelId="4703" name="Hír TV" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Hirtv.png" size="Big", Hír TV
+http://mmttss.com:8080/47963def765a9249/KingaVarga/25753
+#EXTINF:0 type="stream" channelId="4714" name="Ozone TV" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Ozonetv.png" size="Big", Ozone TV
+http://mmttss.com:8080/47963def765a9249/KingaVarga/70061
+#EXTINF:0 type="stream" channelId="2904" name="Life TV" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/lifetv.png" size="Big", Life TV
+http://mmttss.com:8080/47963def765a9249/KingaVarga/74313
+#EXTINF:0 type="stream" channelId="56" name="National Geographic" group="Dokumentum" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/NATIONALGEOGRAPHIC.png", National Geographic
+http://mmttss.com:8080/47963def765a9249/KingaVarga/74405
+#EXTINF:0 type="stream" channelId="164" name="National Geographic Wild" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Natgeowild.png", National Geographic Wild
+http://mmttss.com:8080/47963def765a9249/KingaVarga/48446
+#EXTINF:0 type="stream" channelId="57" name="Discovery Channel" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Discoverychanel.png" size="Big", Discovery Channel
+http://mmttss.com:8080/47963def765a9249/KingaVarga/19903
+#EXTINF:0 type="stream" channelId="1455" name="History" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/History.png" size="Big", History
+http://mmttss.com:8080/47963def765a9249/KingaVarga/78080
+#EXTINF:0 type="stream" channelId="1455" name="*History2*" logo="https://os.md/QR2SN7WNH.jpg" size="Big", *History2*
+http://mmttss.com:8080/47963def765a9249/KingaVarga/133548
+#EXTINF:0 type="stream" channelId="3025" name="Spektrum" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/SPEKTRUM.png" size="Big", Spektrum
+http://mmttss.com:8080/47963def765a9249/KingaVarga/76468
+#EXTINF:0 type="stream" channelId="1418" name="HGTV" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/HGTV.png", HGTV
+http://mmttss.com:8080/47963def765a9249/KingaVarga/95617
+#EXTINF:0 type="stream" channelId="4711" name="FEM3" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/FEM3.png", FEM3
+http://mmttss.com:8080/47963def765a9249/KingaVarga/22390
+#EXTINF:0 type="stream" channelId="2935" name="Spektrum Home" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Sprektrumhome.png", Spektrum Home
+http://mmttss.com:8080/47963def765a9249/KingaVarga/95938
+#EXTINF:0 type="stream" channelId="2935" name="*RTL Otthon*" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/RTLothon.png", *RTL Otthon*
+http://mmttss.com:8080/47963def765a9249/KingaVarga/50146
+#EXTINF:0 type="stream" channelId="1244" name="Food Network" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Foodnetwork.png" size="Big", Food Network
+http://mmttss.com:8080/47963def765a9249/KingaVarga/52131
+#EXTINF:0 type="stream" channelId="2936" name="TV Paprika" group="Reality" logo="https://os.md/C64H.png", TV Paprika
+http://mmttss.com:8080/47963def765a9249/KingaVarga/60053
+#EXTINF:0 type="stream" channelId="-1" name="TV2 Séf" group="Reality" logo="https://os.md/RN7F.png", TV2 Séf
+http://mmttss.com:8080/47963def765a9249/KingaVarga/21083
+#EXTINF:0 type="stream" channelId="54" name="Travel Channel" group="Reality" logo="https://os.md/T4YK34.png", Travel Channel
+http://mmttss.com:8080/47963def765a9249/KingaVarga/127084
+#EXTINF:0 type="stream" channelId="67" name="TLC" group="Reality" logo="https://os.md/E6X3.png", TLC
+http://mmttss.com:8080/47963def765a9249/KingaVarga/6106
+#EXTINF:0 type="stream" channelId="3658" name="Epic Drama" group="Sorozat" logo="https://os.md/8DP9KK7.png", Epic Drama
+http://mmttss.com:8080/47963def765a9249/KingaVarga/87008
+#EXTINF:0 type="stream" channelId="59" name="ID" logo="https://os.md/RYVSD.png", ID
+http://mmttss.com:8080/47963def765a9249/KingaVarga/66104
+#EXTINF:0 type="stream" channelId="40" name="Cartoon Network" group="Gyerek" logo="https://os.md/JH7NYR.png", Cartoon Network
+http://mmttss.com:8080/47963def765a9249/KingaVarga/106991
+#EXTINF:0 type="stream" channelId="1305" name="Cartoonito" group="Gyerek" logo="https://os.md/PKBRKJT.png", Cartoonito
+http://mmttss.com:8080/47963def765a9249/KingaVarga/24083
+#EXTINF:0 type="stream" channelId="19" name="Disney Channel" group="Gyerek" logo="https://os.md/F6RD8HE9.png", Disney Channel
+http://mmttss.com:8080/47963def765a9249/KingaVarga/26948
+#EXTINF:0 type="stream" channelId="2938" name="Minimax" group="Gyerek" logo="https://os.md/VDPY.png", Minimax
+http://mmttss.com:8080/47963def765a9249/KingaVarga/129688
+#EXTINF:0 type="stream" channelId="41" name="Nickelodeon" logo="http://steveboy.uw.hu/logo/nickelodeon.png", Nickelodeon
+http://mmttss.com:8080/47963def765a9249/KingaVarga/78777
+#EXTINF:0 type="stream" channelId="-1" name="TV2 Kids" group="Gyerek" logo="http://steveboy.uw.hu/logo/tv-2-kids.png", TV2 Kids
+http://mmttss.com:8080/47963def765a9249/KingaVarga/94180
+#EXTINF:0 type="stream" channelId="322" name="Nick Jr." group="Gyerek" logo="http://steveboy.uw.hu/logo/nick-jr.png", Nick Jr.
+http://mmttss.com:8080/47963def765a9249/KingaVarga/116059
+#EXTINF:0 type="stream" channelId="2711" name="Nicktoons" group="Gyerek" logo="http://steveboy.uw.hu/logo/nicktoons.png", Nicktoons
+http://mmttss.com:8080/47963def765a9249/KingaVarga/32453
+#EXTINF:0 type="stream" channelId="1221" name="Max4" group="Film" logo="http://steveboy.uw.hu/logo/film-4.png", Max4
+http://mmttss.com:8080/47963def765a9249/KingaVarga/100595
+#EXTINF:0 type="stream" channelId="1221" name="Film4" group="Film" logo="http://steveboy.uw.hu/logo/film-4.png", Film4
+http://mmttss.com:8080/47963def765a9249/KingaVarga/129320
+#EXTINF:0 type="stream" channelId="4708" name="Story4" group="Sorozat" logo="http://steveboy.uw.hu/logo/story-4.png", Story4
+http://mmttss.com:8080/47963def765a9249/KingaVarga/92032
+#EXTINF:0 type="stream" channelId="4720" name="Galaxy4" logo="http://steveboy.uw.hu/logo/galaxy-4.png", Galaxy4
+http://mmttss.com:8080/47963def765a9249/KingaVarga/64679
+#EXTINF:0 type="stream" channelId="4737" name="Arena4" group="Sport" logo="http://steveboy.uw.hu/logo/arena-4.png", Arena4
+http://mmttss.com:8080/47963def765a9249/KingaVarga/118857
+#EXTINF:0 type="stream" channelId="-1" name="Match4" group="Sport" logo="http://steveboy.uw.hu/logo/match-4.png", Match4
+http://mmttss.com:8080/47963def765a9249/KingaVarga/75706
+#EXTINF:0 type="stream" channelId="82" name="Eurosport 1" group="Sport" logo="http://steveboy.uw.hu/logo/eurosport-1.png", Eurosport 1
+http://mmttss.com:8080/47963def765a9249/KingaVarga/104463
+#EXTINF:0 type="stream" channelId="83" name="Eurosport 2" group="Sport" logo="http://steveboy.uw.hu/logo/eurosport-2.png", Eurosport 2
+http://mmttss.com:8080/47963def765a9249/KingaVarga/109033
+#EXTINF:0 type="stream" channelId="977" name="Sport 1" logo="http://steveboy.uw.hu/logo/sport1.png", Sport 1
+http://mmttss.com:8080/47963def765a9249/KingaVarga/111540
+#EXTINF:0 type="stream" channelId="-1" name="Sport 2" logo="http://steveboy.uw.hu/logo/sport2.png", Sport 2
+http://mmttss.com:8080/47963def765a9249/KingaVarga/35021
+#EXTINF:0 type="stream" channelId="2926" name="Filmbox Extra HD" group="Film" logo="http://steveboy.uw.hu/logo/filmbox-extra-hd.png", Filmbox Extra HD
+http://mmttss.com:8080/47963def765a9249/KingaVarga/30649
+#EXTINF:0 type="stream" channelId="2927" name="Filmbox Premium" group="Film" logo="http://steveboy.uw.hu/logo/filmbox-premium.png", Filmbox Premium
+http://mmttss.com:8080/47963def765a9249/KingaVarga/26672
+#EXTINF:0 type="stream" channelId="3021" name="Filmbox Family" group="Film" logo="http://steveboy.uw.hu/logo/filmbox-family.png", Filmbox Family
+http://mmttss.com:8080/47963def765a9249/KingaVarga/31209
+#EXTINF:0 type="stream" channelId="-1" name="Filmbox Stars" group="Film" logo="https://raw.githubusercontent.com/Lutz86/Ott-navigator/refs/heads/main/AXN.png", Filmbox Stars
+http://mmttss.com:8080/47963def765a9249/KingaVarga/47184
+#EXTINF:0 type="stream" channelId="50" name="Animal Planet" group="Dokumentum" logo="http://steveboy.uw.hu/logo/animal-planet.png", Animal Planet
+http://mmttss.com:8080/47963def765a9249/KingaVarga/28459
+#EXTINF:0 type="stream" channelId="3192" name="BBC Earth" group="Dokumentum" logo="http://steveboy.uw.hu/logo/bbc-earth.png", BBC Earth
+http://mmttss.com:8080/47963def765a9249/KingaVarga/18250
+#EXTINF:0 type="stream" channelId="165" name="Viasat Explore" group="Dokumentum" logo="http://steveboy.uw.hu/logo/viasat-explore.png", Viasat Explore
+http://mmttss.com:8080/47963def765a9249/KingaVarga/44301
+#EXTINF:0 type="stream" channelId="166" name="Viasat History" group="Dokumentum" logo="http://steveboy.uw.hu/logo/viasat-history.png", Viasat History
+http://mmttss.com:8080/47963def765a9249/KingaVarga/129282
+#EXTINF:0 type="stream" channelId="172" name="Viasat Nature" group="Dokumentum" logo="http://steveboy.uw.hu/logo/viasat-nature.png", Viasat Nature
+http://mmttss.com:8080/47963def765a9249/KingaVarga/112934
+#EXTINF:0 type="stream" channelId="-1" name="The Fishing & Hunting" group="Reality" logo="http://steveboy.uw.hu/logo/the-fishing-and-hunting-channel.png", The Fishing & Hunting
+http://mmttss.com:8080/47963def765a9249/KingaVarga/27837
+#EXTINF:0 type="stream" channelId="4741" name="Zenebutik" group="Zene" logo="http://steveboy.uw.hu/logo/zenebutik.png", Zenebutik
+http://mmttss.com:8080/47963def765a9249/KingaVarga/108317
+#EXTINF:0 type="stream" channelId="43" name="Mezzo" group="Zene" logo="http://steveboy.uw.hu/logo/mezzo.png", Mezzo
+http://mmttss.com:8080/47963def765a9249/KingaVarga/134023
+#EXTINF:0 type="stream" channelId="1106" name="MTV European" group="Zene" logo="http://steveboy.uw.hu/logo/mtv.png", MTV European
+http://213.163.13.122:1559/udp/239.1.10.66:2000
+#EXTINF:0 type="stream" channelId="4333" name="Muzsika TV" group="Zene" logo="http://steveboy.uw.hu/logo/muzsika-tv.png", Muzsika TV
+http://mmttss.com:8080/47963def765a9249/KingaVarga/74370
+#EXTINF:0 type="stream" channelId="-1" name="Dikh TV" group="Zene" logo="http://steveboy.uw.hu/logo/dikh-tv.png", Dikh TV
+http://mmttss.com:8080/47963def765a9249/KingaVarga/126733
+#EXTINF:0 type="stream" channelId="-1" name="Jazz TV" group="Zene" logo="http://steveboy.uw.hu/logo/jazztv.png", Jazz TV
+http://mmttss.com:8080/47963def765a9249/KingaVarga/95839
